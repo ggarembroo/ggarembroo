@@ -6,7 +6,7 @@ On-device AI, ternary LLMs, phone clusters.
 
 ## Work
 
-27B ternary on Android clusters · ggml-rpc · logits-free · draft models
+27B ternary on Android clusters · ggml-rpc
 
 ## Selected
 
@@ -17,5 +17,5 @@ On-device AI, ternary LLMs, phone clusters.
 
 ## Upstream
 
-[llama.cpp #30415](https://github.com/ggml-org/llama.cpp/pull/30415) · [#30657](https://github.com/ggml-org/llama.cpp/pull/30657)  
+[llama.cpp #30415](https://github.com/ggml-org/llama.cpp/pull/30415)  
 [llama.rn #416](https://github.com/mybigday/llama.rn/pull/416) · [#414](https://github.com/mybigday/llama.rn/pull/414)
