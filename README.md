@@ -28,7 +28,7 @@ I measure instead of guessing
 |---|---|
 | 36M MoE FP32 | 16.20 PPL |
 | 36M MoE ternary PTQ | 3404.56 PPL |
-| 36M MoE ternary QAT + outlier + calibration + mixed precision | 21.78 PPL best, 21.88 reproduced |
+| 36M MoE ternary QAT + outlier + calibration + mixed precision | 21.49 PPL |
 | MiniCPM 35B-A3B Q3 mixed on 16 GB phone | 6.3 tok/s decode |
 | MiniCPM 35B-A3B Q2_K on 16 GB phone | 12.9 GB, ~1 tok/s |
 
